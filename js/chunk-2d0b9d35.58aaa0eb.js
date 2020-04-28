@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9d35"],{3530:function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement;n._self._c;return n._m(0)},s=[function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"Admin"},[e("p",[n._v("查询模块")])])}],u={components:{},data:function(){return{}},methods:{},mouted:function(){}},a=u,o=e("2877"),r=Object(o["a"])(a,c,s,!1,null,"4248a55c",null);t["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0b9d35.58aaa0eb.js.map
